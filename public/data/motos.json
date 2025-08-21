@@ -1,0 +1,172 @@
+[
+  {
+    "id": "Gilera_SMASH-110-VS",
+    "titulo": "Gilera SMASH 110 VS",
+    "Descripcion":"Moto urbana con motor de 110 cc, ideal para desplazamientos rápidos en la ciudad. Diseño compacto y rendimiento eficiente.",
+    "PotenciaMaxima":"7.2hp / 7000rpm",
+    "Cilindrada":"107cc",
+    "Peso": "100 kgs",
+    "LitrosCombustible": "4.1 lts",
+    "SistemaDeArranque": "Eléctrico y pedal",
+    "imagenes": [
+        "/imgs/modelos/Gilera_SMASH-110-VS-CBS/Gilera_SMASH-110-VS-CBS_2.webp",
+        "/imgs/modelos/Gilera_SMASH-110-VS-CBS/Gilera_SMASH-110-VS-CBS_1.webp",
+        "/imgs/modelos/Gilera_SMASH-110-VS-CBS/Gilera_SMASH-110-VS-CBS_3.webp",
+        "/imgs/modelos/Gilera_SMASH-110-VS-CBS/Gilera_SMASH-110-VS-CBS_4.webp",
+        "/imgs/modelos/Gilera_SMASH-110-VS-CBS/Gilera_SMASH-110-VS-CBS_5.webp"
+    ]
+  },
+  {
+    "id": "ilera_SMASH-R-TUNNING",
+    "titulo": "Gilera SMASH-R-TUNNING",
+    "Descripcion":"Versión deportiva de la SMASH 110 con detalles de tuning, mayor agilidad y estilo agresivo para los más jóvenes.",
+    "PotenciaMaxima":"7.2hp @ 7000rpm",
+    "Cilindrada":"107cc",
+    "Peso": "100 kgs",
+    "LitrosCombustible": "4.1 lts",
+    "SistemaDeArranque": "Eléctrico y pedal",
+    "imagenes": [
+        "/imgs/modelos/Gilera_SMASH-R-TUNNING/FOTOS/Gilera_SMASH-R-TUNNING_5.webp",
+        "/imgs/modelos/Gilera_SMASH-R-TUNNING/FOTOS/Gilera_SMASH-R-TUNNING_1.webp",
+        "/imgs/modelos/Gilera_SMASH-R-TUNNING/FOTOS/Gilera_SMASH-R-TUNNING_2.webp",
+        "/imgs/modelos/Gilera_SMASH-R-TUNNING/FOTOS/Gilera_SMASH-R-TUNNING_3.webp",
+        "/imgs/modelos/Gilera_SMASH-R-TUNNING/FOTOS/Gilera_SMASH-R-TUNNING_4.webp",
+        "/imgs/modelos/Gilera_SMASH-R-TUNNING/FOTOS/Gilera_SMASH-R-TUNNING_6.webp"
+    ]
+  },
+  {
+    "id": "Gilera_SMASH-FULL-110",
+    "titulo": "Gilera SMASH FULL-110",
+    "Descripcion":"Moto con motor de 110 cc, equipada con suspensión mejorada y diseño robusto para viajes cortos y medianos en calles urbanas.",
+    "PotenciaMaxima":"7.2hp @ 7000rpm",
+    "Cilindrada":"107cc",
+    "Peso": "100 kgs",
+    "LitrosCombustible": "4.1 lts",
+    "SistemaDeArranque": "Eléctrico y pedal",
+    "imagenes": [
+        "/imgs/modelos/Gilera_SMASH-FULL-110/FOTOS/Gilera_SMASH-FULL-110_2.webp",
+        "/imgs/modelos/Gilera_SMASH-FULL-110/FOTOS/Gilera_SMASH-FULL-110_1.webp",
+        "/imgs/modelos/Gilera_SMASH-FULL-110/FOTOS/Gilera_SMASH-FULL-110_3.webp",
+        "/imgs/modelos/Gilera_SMASH-FULL-110/FOTOS/Gilera_SMASH-FULL-110_4.webp",
+        "/imgs/modelos/Gilera_SMASH-FULL-110/FOTOS/Gilera_SMASH-FULL-110_5.webp",
+        "/imgs/modelos/Gilera_SMASH-FULL-110/FOTOS/Gilera_SMASH-FULL-110_6.webp",
+        "/imgs/modelos/Gilera_SMASH-FULL-110/FOTOS/Gilera_SMASH-FULL-110_7.webp",
+        "/imgs/modelos/Gilera_SMASH-FULL-110/FOTOS/Gilera_SMASH-FULL-110_8.webp"
+    ]
+  },
+  {
+    "id": "Gilera_SMASH-110-AUTOMATICA",
+    "titulo": "Gilera SMASH 110 AUTOMÁTICA",
+    "Descripcion":"Versión con transmisión automática para mayor comodidad en el tráfico, manteniendo la confiabilidad y economía de la SMASH 110.",
+    "PotenciaMaxima":"7.2hp @ 7000rpm",
+    "Cilindrada":"107cc",
+    "Peso": "100 kgs",
+    "LitrosCombustible": "4.1 lts",
+    "SistemaDeArranque": "Eléctrico y pedal",
+    "imagenes": [
+        "/imgs/modelos/Gilera_SMASH-110-AUTOMATICA/Gilera_SMASH-110-AUTOMATICA_1.webp",
+        "/imgs/modelos/Gilera_SMASH-110-AUTOMATICA/Gilera_SMASH-110-AUTOMATICA_2.webp",
+        "/imgs/modelos/Gilera_SMASH-110-AUTOMATICA/Gilera_SMASH-110-AUTOMATICA_3.webp",
+        "/imgs/modelos/Gilera_SMASH-110-AUTOMATICA/Gilera_SMASH-110-AUTOMATICA_4.webp"
+    ]
+  },
+  {
+    "id": "Gilera_SMASH-X125",
+    "titulo": "Gilera SMASH X125",
+    "Descripcion":"Moto de 125 cc, más potente y estable que el modelo estándar, perfecta para quienes buscan mayor desplazamiento y velocidad en rutas urbanas.",
+    "PotenciaMaxima":"7.5hp @ 7500rpm",
+    "Cilindrada":"119.1cc",
+    "Peso": "100 kgs",
+    "LitrosCombustible": "4.5 lts",
+    "SistemaDeArranque": "Eléctrico y pedal",
+    "imagenes": [
+        "/imgs/modelos/Gilera_SMASH-X125/Gilera_SMASH-X125_1.webp",
+        "/imgs/modelos/Gilera_SMASH-X125/Gilera_SMASH-X125_2.webp",
+        "/imgs/modelos/Gilera_SMASH-X125/Gilera_SMASH-X125_3.webp",
+        "/imgs/modelos/Gilera_SMASH-X125/Gilera_SMASH-X125_4.webp",
+        "/imgs/modelos/Gilera_SMASH-X125/Gilera_SMASH-X125_5.webp",
+        "/imgs/modelos/Gilera_SMASH-X125/Gilera_SMASH-X125_6.webp"
+    ]
+  },
+  {
+    "id": "Gilera_SAHEL-150",
+    "titulo": "Gilera SAHEL-150",
+    "Descripcion":"Moto trail de 150 cc con suspensión larga, ideal para caminos mixtos, terrenos accidentados y para aquellos que disfrutan de la aventura.",
+    "PotenciaMaxima":"10.7hp @ 8500rpm",
+    "Cilindrada":"149cc",
+    "Peso": "120 kgs",
+    "LitrosCombustible": "8.6 lts",
+    "SistemaDeArranque": "Eléctrico y pedal",
+    "imagenes": [
+        "/imgs/modelos/Gilera_SAHEL-150/FOTOS/Gilera_SAHEL-150_3.webp",
+        "/imgs/modelos/Gilera_SAHEL-150/FOTOS/Gilera_SAHEL-150_1.webp",
+        "/imgs/modelos/Gilera_SAHEL-150/FOTOS/Gilera_SAHEL-150_2.webp"
+    ]
+  },
+  {
+    "id": "Gilera_VC150",
+    "titulo": "Gilera VC150",
+    "Descripcion":"Moto cruiser de 150 cc, con un diseño clásico y cómodo para largos recorridos en carretera, con motor eficiente y estética de moto grande.",
+    "PotenciaMaxima":"12hp @ 8500rpm",
+    "Cilindrada":"149cc",
+    "Peso": "109 kgs",
+    "LitrosCombustible": "12 lts",
+    "SistemaDeArranque": "Eléctrico y pedal",
+    "imagenes": [
+        "/imgs/modelos/Gilera_VC150/FOTOS/Gilera_VC150_1.webp",
+        "/imgs/modelos/Gilera_VC150/FOTOS/Gilera_VC150_2.webp",
+        "/imgs/modelos/Gilera_VC150/FOTOS/Gilera_VC150_3.webp"
+    ]
+  },
+  {
+    "id": "Gilera_SMX200ADV",
+    "titulo": "Gilera SMX200",
+    "Descripcion":"Moto de 200 cc, diseñada para el off-road con mayor potencia y resistencia, ideal para rutas desafiantes y conducción fuera de asfalto.",
+    "PotenciaMaxima":"15.4hp @ 8000rpm",
+    "Cilindrada":"197cc",
+    "Peso": "135 kgs",
+    "LitrosCombustible": "13,5 lts",
+    "SistemaDeArranque": "Eléctrico",
+    "imagenes": [
+        "/imgs/modelos/Gilera_SMX200ADV/FOTOS/Gilera_SMX200ADV_5.webp",
+        "/imgs/modelos/Gilera_SMX200ADV/FOTOS/Gilera_SMX200ADV_1.webp",
+        "/imgs/modelos/Gilera_SMX200ADV/FOTOS/Gilera_SMX200ADV_2.webp",
+        "/imgs/modelos/Gilera_SMX200ADV/FOTOS/Gilera_SMX200ADV_3.webp",
+        "/imgs/modelos/Gilera_SMX200ADV/FOTOS/Gilera_SMX200ADV_4.webp",
+        "/imgs/modelos/Gilera_SMX200ADV/FOTOS/Gilera_SMX200ADV_6.webp"        
+    ]
+  },
+  {
+    "id": "Gilera_SMX250",
+    "titulo": "Gilera SMX250",
+    "Descripcion":"Versión más potente de la SMX, equipada con motor de 250 cc, suspensión de largo recorrido y diseño robusto para aventuras todo terreno.",
+    "PotenciaMaxima":"24.1hp @ 7500rpm",
+    "Cilindrada":"249.4cc",
+    "Peso": "152 kgs",
+    "LitrosCombustible": "13 lts",
+    "SistemaDeArranque": "Eléctrico",
+    "imagenes": [
+        "/imgs/modelos/Gilera_SMX250/FOTOS/Gilera_SMX250_3.webp",
+        "/imgs/modelos/Gilera_SMX250/FOTOS/Gilera_SMX250_1.webp",
+        "/imgs/modelos/Gilera_SMX250/FOTOS/Gilera_SMX250_2.webp",
+        "/imgs/modelos/Gilera_SMX250/FOTOS/Gilera_SMX250_4.webp"
+    ]
+  },
+  {
+    "id": "Gilera_AC4-250-4V",
+    "titulo": "Gilera AC4-250-4V",
+    "Descripcion":"Moto de 250 cc con motor de 4 válvulas, rendimiento excepcional para rutas mixtas y un diseño deportivo que ofrece potencia y maniobrabilidad.",
+    "PotenciaMaxima":"24.1hp @ 7500rpm",
+    "Cilindrada":"249.4cc",
+    "Peso": "139 kgs",
+    "LitrosCombustible": "15.5 lts",
+    "SistemaDeArranque": "Eléctrico",
+    "imagenes": [
+        "/imgs/modelos/Gilera_AC4-250-4V/FOTOS/Gilera_AC4-250-4V_1.webp",
+        "/imgs/modelos/Gilera_AC4-250-4V/FOTOS/Gilera_AC4-250-4V_2.webp",
+        "/imgs/modelos/Gilera_AC4-250-4V/FOTOS/Gilera_AC4-250-4V_3.webp",
+        "/imgs/modelos/Gilera_AC4-250-4V/FOTOS/Gilera_AC4-250-4V_4.webp",
+        "/imgs/modelos/Gilera_AC4-250-4V/FOTOS/Gilera_AC4-250-4V_5.webp"
+    ]
+  }
+]

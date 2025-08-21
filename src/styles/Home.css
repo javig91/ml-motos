@@ -1,0 +1,228 @@
+.div-principal,
+.fondo_index {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-principal {
+    width: 100%;
+}
+
+.page-content {
+    position: relative;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+}
+
+.fondo_index {
+    width: 100vw;
+    height: 70vh;
+    position: relative;
+
+    background-image: url('../imgs/fondo_completo.png');
+    background-size: cover;
+    background-position: 50% 20%;
+    /* background-repeat: no-repeat; */
+}
+
+.Moto-Modelo,
+.Conocela {
+    position: absolute;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.Moto-Modelo {
+    left: 5vw;
+    top: 2vh;
+    background: linear-gradient(#fff, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.Conocela {
+    color: #fff;
+    left: 5vw;
+    top: 10vh;
+    cursor: pointer;
+}
+
+.Conocela:hover {
+    color: rgb(160, 160, 160);
+}
+
+.marcas_container {
+    position: absolute;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+    /* top: 60vh; */
+    bottom: 1vh;
+}
+
+.gilera-container,
+.voge-container,
+.hero-container {
+    width: 115px;
+    height: 115px;
+    position: relative;
+    margin: .35rem;
+    cursor: pointer;
+}
+
+.gilera_div,
+.voge_div,
+.hero_div,
+.gileraHover_div,
+.vogeHover_div,
+.heroHover_div {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+}
+
+.gilera_div,
+.voge_div,
+.hero_div {
+    z-index: 1;
+    transition: .75s;
+}
+
+.gileraHover_div,
+.vogeHover_div,
+.heroHover_div {
+    padding: .5rem;
+    opacity: 0;
+    z-index: 2;
+    transition: .75s;
+}
+
+/* ESTILOS CUANDO SE LE HACE HOVER AL DIV */
+
+.gilera_div_opacity,
+.voge_div_opacity,
+.hero_div_opacity {
+    opacity: 0;
+    transition: .75s;
+}
+
+.gileraHover_div_bckColor,
+.vogeHover_div_bckColor,
+.heroHover_div_bckColor {
+    opacity: 1;
+    border-radius: 15px;
+    background-color: #F4BF968A;
+    transition: .75s;
+}
+/* FIN DE ESTILOS CUANDO SE LE HACE HOVER AL DIV */
+
+.gilera,
+.voge,
+.hero,
+.gilera_hover,
+.voge_hover,
+.hero_hover {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
+
+.banner-home {
+    position: relative;
+    width: 100vw;
+}
+
+.banner-home img {
+    width: 100%;
+}
+
+.creditos_personales,
+.accesorios {
+    width: 90%;
+    margin: 2.5vh 5%;
+}
+
+.creditos_personales {
+    position: relative;
+    height: 350px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.creditos_personales h3 {
+    padding: 1rem 0;
+    font-weight: bold;
+}
+
+.solo_dni {
+    color: red;
+    text-decoration: underline;
+}
+
+.fondo_credsPersonales {
+    position: relative;
+    width: 100%;
+    border: 2px solid #000;
+    border-radius: 15px;
+    flex: 2;
+    overflow: hidden;
+}
+
+.concreta_suenos,
+.click_moto {
+    position: absolute;
+    font-size: .75rem;
+    left: 6vw;
+    text-align: left;
+}
+
+.concreta_suenos {
+    margin-top: 1vh;
+}
+
+.click_moto {
+    margin-top: 3vh;
+}
+
+.moto_creditos {
+    position: absolute;
+    width: 100vw;
+    bottom: 0;
+    left: 0;
+}
+
+.accesorios {
+    position: relative;
+    height: 200px;
+    border-radius: 15px;
+    font-weight: 900;
+    font-family: 'Bahnschrift', sans-serif;
+
+    background-image: url('../imgs/accesorios_index.png');
+    background-size: cover;
+    background-position: 50%;
+}
+
+.accesorios p {
+    position: absolute;
+    transform: rotate(-30deg);
+    left: 0;
+    bottom: 155px;
+    text-shadow:
+    -1px -1px 0 rgb(255, 0, 0),
+     1px -1px 0 rgb(255, 0, 0),
+    -1px  1px 0 rgb(255, 0, 0),
+     1px  1px 0 rgb(255, 0, 0);
+}

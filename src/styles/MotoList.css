@@ -1,0 +1,54 @@
+.div-principal,
+.lista-motos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-principal,
+.page-content {
+    width: 100%;
+    flex-direction: column;
+}
+
+.page-content,
+.lista-motos,
+.moto-card {
+    position: relative;
+}
+
+.lista-motos {
+    width: 90%;
+    margin: 1rem 5%;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.moto-card {
+    width: 200px;
+    height: 200px;
+    font-size: .7rem;
+    margin: 1rem;
+    padding: .5rem 0;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid #000000;
+    border-radius: 15px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+}
+
+.moto-card a {
+    padding: .35rem;
+    border-radius: 8px;
+    background-color: #ff0000;
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.moto-card a:hover {
+    background-color: #a70000;
+}

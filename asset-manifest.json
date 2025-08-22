@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.67562040.css",
-    "main.js": "/static/js/main.46a4dd0f.js",
-    "static/js/453.e2d3468e.chunk.js": "/static/js/453.e2d3468e.chunk.js",
-    "static/media/fondo_completo.png": "/static/media/fondo_completo.61db1288f39548ce5c43.png",
-    "static/media/banner_index.png": "/static/media/banner_index.1ded3b3a6bd0137e7808.png",
-    "static/media/accesorios_index.png": "/static/media/accesorios_index.c165e6c2b23a7656a5f1.png",
-    "static/media/motos_creditos.png": "/static/media/motos_creditos.5cdc0728d078e8a01612.png",
-    "static/media/marcasVoge.png": "/static/media/marcasVoge.f9f32fe71555c52b8001.png",
-    "static/media/marcasGilera.png": "/static/media/marcasGilera.1f84906585f2ddbd572a.png",
-    "static/media/marcasHero.png": "/static/media/marcasHero.b5d34d083d3ba030201c.png",
-    "static/media/BAHNSCHRIFT-1.TTF": "/static/media/BAHNSCHRIFT-1.b00e12e37c52124aa504.TTF",
-    "static/media/marcasGileraHover.png": "/static/media/marcasGileraHover.3359548bb89d3b51297e.png",
-    "static/media/marcasVogeHover.png": "/static/media/marcasVogeHover.a38ebbb6fb77b7020cf4.png",
-    "static/media/logo.png": "/static/media/logo.f7b78acdbbdce3b7572f.png",
-    "static/media/marcasHeroHover.png": "/static/media/marcasHeroHover.3b3aa125be80af782b8a.png",
-    "static/media/logo.webp": "/static/media/logo.2b947c1d86ec18fd774a.webp",
-    "index.html": "/index.html",
-    "main.67562040.css.map": "/static/css/main.67562040.css.map",
-    "main.46a4dd0f.js.map": "/static/js/main.46a4dd0f.js.map",
-    "453.e2d3468e.chunk.js.map": "/static/js/453.e2d3468e.chunk.js.map"
+    "main.css": "/ml-motos/static/css/main.53d9dd9c.css",
+    "main.js": "/ml-motos/static/js/main.7523af71.js",
+    "static/js/453.e2d3468e.chunk.js": "/ml-motos/static/js/453.e2d3468e.chunk.js",
+    "static/media/fondo_completo.png": "/ml-motos/static/media/fondo_completo.61db1288f39548ce5c43.png",
+    "static/media/banner_index.png": "/ml-motos/static/media/banner_index.1ded3b3a6bd0137e7808.png",
+    "static/media/accesorios_index.png": "/ml-motos/static/media/accesorios_index.c165e6c2b23a7656a5f1.png",
+    "static/media/motos_creditos.png": "/ml-motos/static/media/motos_creditos.5cdc0728d078e8a01612.png",
+    "static/media/marcasVoge.png": "/ml-motos/static/media/marcasVoge.f9f32fe71555c52b8001.png",
+    "static/media/marcasGilera.png": "/ml-motos/static/media/marcasGilera.1f84906585f2ddbd572a.png",
+    "static/media/marcasHero.png": "/ml-motos/static/media/marcasHero.b5d34d083d3ba030201c.png",
+    "static/media/BAHNSCHRIFT-1.TTF": "/ml-motos/static/media/BAHNSCHRIFT-1.b00e12e37c52124aa504.TTF",
+    "static/media/marcasGileraHover.png": "/ml-motos/static/media/marcasGileraHover.3359548bb89d3b51297e.png",
+    "static/media/marcasVogeHover.png": "/ml-motos/static/media/marcasVogeHover.a38ebbb6fb77b7020cf4.png",
+    "static/media/logo.png": "/ml-motos/static/media/logo.f7b78acdbbdce3b7572f.png",
+    "static/media/marcasHeroHover.png": "/ml-motos/static/media/marcasHeroHover.3b3aa125be80af782b8a.png",
+    "static/media/logo.webp": "/ml-motos/static/media/logo.2b947c1d86ec18fd774a.webp",
+    "index.html": "/ml-motos/index.html",
+    "main.53d9dd9c.css.map": "/ml-motos/static/css/main.53d9dd9c.css.map",
+    "main.7523af71.js.map": "/ml-motos/static/js/main.7523af71.js.map",
+    "453.e2d3468e.chunk.js.map": "/ml-motos/static/js/453.e2d3468e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.67562040.css",
-    "static/js/main.46a4dd0f.js"
+    "static/css/main.53d9dd9c.css",
+    "static/js/main.7523af71.js"
   ]
 }

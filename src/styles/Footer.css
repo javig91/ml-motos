@@ -41,8 +41,16 @@
 
 .local-details ion-icon {
     color: #ffffff;
-    font-size: 1.1rem;
+    font-size: 1.25rem;
     margin-bottom: .35rem;
+}
+
+.social-networks {
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: .35rem 0 0 0;
 }
 
 .div-footer-container .javier-gamboa {
@@ -51,4 +59,8 @@
     bottom: .75vh;
     list-style-type: none;
     font-size: .65rem;
+}
+
+.div-footer-container .javier-gamboa:hover {
+    color: rgb(213 213 213);
 }

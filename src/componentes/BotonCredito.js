@@ -1,5 +1,6 @@
 import { useState } from "react";
 import '../styles/MotoDetalle.css'
+import { phoneNumber } from "./PhoneNumber";
 
 function BotonCredito() {
   const [showForm, setShowForm] = useState(false);
@@ -12,16 +13,24 @@ function BotonCredito() {
   const handleSubmit = () => {
     const { nombre, apellido, dni } = formData;
 
-    if (!nombre || !apellido || !dni ) {
-      alert("Por favor completa todos los campos o verifica la información cargada");
-      return;
+    if (!nombre || !apellido || !dni) {
+        alert("Por favor completa todos los campos o verifica la información cargada");
+    return;
     }
 
-    const phoneNumber = "5491154671905";
+    
+    const dniSoloNumeros = /^\d+$/;
 
-    const message = `Hola ML Motos! Quiero consultar por un Crédito Personal. Mis datos son: Nombre: ${nombre} Apellido: ${apellido} y DNI: ${dni}`;
+    if (!dniSoloNumeros.test(dni)) {
+        alert("El DNI debe contener solo números");
+    return;
+    }
 
-    const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
+    // const phoneNumber = "5491176099163";
+
+    const message = `Hola ML Motos! Quiero consultar por un Crédito Personal. Mi nombre completo es ${nombre} Apellido: ${apellido} y DNI: ${dni}`;
+
+    const url = `https://wa.me/${ phoneNumber }?text=${encodeURIComponent(message)}`;
     window.open(url, "_blank");
   };
 
@@ -35,7 +44,6 @@ function BotonCredito() {
         Consulta por tu Crédito Personal
         </button>
 
-        {/* Modal/Formulario */}
         {showForm && (
             <div className="modal-form">
                 <div className="modal-form-window">
@@ -45,7 +53,6 @@ function BotonCredito() {
                         type="text"
                         name="nombre"
                         placeholder="Nombre"
-                        className=""
                         onChange={handleChange}
                     />
                     <input
@@ -59,7 +66,6 @@ function BotonCredito() {
                         type="text"
                         name="dni"
                         placeholder="Documento"
-                        className=""
                         onChange={handleChange}
                     />
 
@@ -67,14 +73,12 @@ function BotonCredito() {
 
                         <button
                         onClick={() => setShowForm(false)}
-                        className=""
                         >
                         Cancelar
                         </button>
 
                         <button
                         onClick={handleSubmit}
-                        className=""
                         >
                         Enviar
                         </button>

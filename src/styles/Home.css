@@ -32,13 +32,13 @@
 .Moto-Modelo,
 .Conocela {
     position: absolute;
+    top: 2vh;
     font-size: 1.5rem;
     font-weight: bold;
 }
 
 .Moto-Modelo {
     left: 5vw;
-    top: 2vh;
     background: linear-gradient(#fff, red);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -46,9 +46,9 @@
 
 .Conocela {
     color: #fff;
-    left: 5vw;
-    top: 10vh;
+    right: 5vw;
     cursor: pointer;
+    text-shadow: 0 0 5px #000;
 }
 
 .Conocela:hover {
@@ -136,6 +136,14 @@
     border-radius: 15px;
 }
 
+/* .boton-whatsapp {
+    cursor: pointer;
+    position: absolute;
+    left: 3vw;
+    top: 10vh;
+    background-color: green;
+} */
+
 .banner-home {
     position: relative;
     width: 100vw;
@@ -164,6 +172,13 @@
 .creditos_personales h3 {
     padding: 1rem 0;
     font-weight: bold;
+}
+
+.boton-credito {
+    position: absolute;
+    right: 2vw;
+    bottom: 2vh;
+    z-index: 100;
 }
 
 .solo_dni {
@@ -225,4 +240,43 @@
      1px -1px 0 rgb(255, 0, 0),
     -1px  1px 0 rgb(255, 0, 0),
      1px  1px 0 rgb(255, 0, 0);
+}
+
+@media (min-width: 700px) {
+
+    .marcas_container {
+        width: 100%;
+        justify-content: space-evenly;
+    }
+
+    .gilera-container,
+    .voge-container,
+    .hero-container {
+        width: 175px;
+        height: 175px;
+    }
+
+    .creditos_personales {
+    height: 650px;
+    }
+
+    .concreta_suenos,
+    .click_moto {
+        font-size: 1.25rem;
+        left: 2vw;
+    }
+
+    .click_moto {
+        top: 2vh;
+    }
+
+    .accesorios {
+        height: 500px;
+    }
+
+    .accesorios p {
+        font-size: 2.1rem;
+        top: 5vh;
+        left: 7vw;
+    }
 }

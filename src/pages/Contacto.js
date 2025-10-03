@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import '../styles/Contacto.css'
 import Header from '../componentes/Header';
 import Footer from '../componentes/Footer';
+import BotonWhatsApp from '../componentes/WhatsApp';
 
 
 function Contacto() {
@@ -70,6 +71,7 @@ function Contacto() {
 
                     <button type="submit">Enviar</button>
                 </form>
+                <BotonWhatsApp />
             </div>
 
             <Footer />

@@ -92,3 +92,36 @@
 }
 
 
+@media (min-width: 700px) {
+
+    .div-header-container {
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+
+    .nav-header {
+        background-color: #ffffff00;
+        display: block !important;
+        position: relative;
+        top: 0;
+    }
+
+    .button-index,
+    .button-index ion-icon {
+        display: none;
+    }
+
+    .nav-header-none {
+        display: none;
+        transition: 0.5s ease-in-out 0.2s;
+    }
+
+    .nav-header ul {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    .nav-header ul li {
+        margin: 0;
+    }
+}

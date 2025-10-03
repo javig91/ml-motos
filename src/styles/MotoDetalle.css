@@ -201,3 +201,9 @@
     align-items: center;
 }
 
+@media (min-width: 700px) {
+    
+    .photo-payments {
+        flex-direction: row;
+    }
+}
